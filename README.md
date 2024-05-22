@@ -1,5 +1,6 @@
 # RAG-QA
-A question answering system based on Retrieval Augmentation Generation model
+## A question answering system based on Retrieval Augmentation Generation model
+
 The need for an information retrieval system becomes more than important to uncover hidden
 trends and insights in large volumes of unstructured data. Question-answering systems have
 evolved significantly in the past few months with new generation large language models and
